@@ -161,7 +161,7 @@ namespace SE_comp.Controllers
         }
         
         /// <summary>
-        /// Удаление заметки по идентификатору
+        /// Удаление заметки по id
         /// </summary>
         /// <param name="id"></param>
         /// <param name="note"></param>
